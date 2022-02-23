@@ -1,1 +1,3 @@
 Stroka for working with git
+
+Dobavlena eshe 1 stroka
