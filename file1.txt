@@ -1,4 +1,4 @@
 Stroka for working with git
-
+Commit test
 Dobavlena eshe 1 stroka
 Add line
